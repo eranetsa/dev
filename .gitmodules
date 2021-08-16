@@ -1,4 +1,0 @@
-[submodule "eranetsa/e-invoice"]
-	path = eranetsa/e-invoice
-	url = git@github.com:eranetsa/e-invoice.git
-	branch = 14.0
